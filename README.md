@@ -9,7 +9,7 @@ In an economic landscape marked by **high uncertainty and rising default rates**
 ✅ Predictive modeling **reduces collection costs** and improves efficiency 📉  
 ✅ Machine learning helps **prioritize high-risk debtors** 🎯  
 ✅ **Interest rates and installment size** are key factors affecting repayment probability 💰  
-✅ Logistic regression and Random Forest models offer **~97% accuracy** in default prediction 🔍  
+✅ Logistic regression and Random Forest models offer **~96% accuracy** in default prediction 🔍  
 
 
 ## 📊 Methodology & Approach
@@ -49,8 +49,9 @@ P(IMPAGO = 1 | X) = \frac{1}{1 + e^{-\sum \beta_i X_i}}
 
 | Model | Accuracy | Precision | Recall |
 |------------|-----------|-----------|-----------|
-| **Logistic Regression** | 97% ✅ | 94% | 95% |
+| **Logistic Regression** | 96% ✅ | 94% | 95% |
 | **Random Forest** | 90% | 91% | 89% |
+| **Decision Tree** | 91% | 86% | 90% |
 
 📌 **Key Takeaway:** Machine learning models **enhance debt collection accuracy** by filtering high-risk clients.  
 
