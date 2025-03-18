@@ -57,6 +57,7 @@ P(IMPAGO = 1 | X) = \frac{1}{1 + e^{-\sum \beta_i X_i}}
 ## 🎯 Key Insights & Results
 
 📌 **Main Findings:**
+
 ✅ Clients **with higher overdue interest rates** are at greater risk of default  
 ✅ **First-time borrowers have a 40% default rate**, while repeat borrowers have almost zero risk  
 ✅ **Clients in urban areas default more frequently** than rural borrowers  
