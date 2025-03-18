@@ -19,7 +19,7 @@ I analyzed **credit portfolios, macroeconomic indicators, and socioeconomic fact
 
 📌 **Key Data Sources:**
 - **Credit Portfolio Data** (Microgestión S.A.) 📑  
-- **Macroeconomic Trends** (Ecuadorian National Statistics) 📈  
+- **Macroeconomic Trends** (Ecuadorian National Statistics Institute) 📈  
 - **Customer Socioeconomic Profiles** 👥  
 
 | Data Type | Variables |
