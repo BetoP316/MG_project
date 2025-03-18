@@ -15,7 +15,7 @@ In an economic landscape marked by **high uncertainty and rising default rates**
 ## 📊 Methodology & Approach
 
 ### **1️⃣ Data Collection**
-We analyzed **credit portfolios, macroeconomic indicators, and socioeconomic factors** affecting debt repayment behavior.
+I analyzed **credit portfolios, macroeconomic indicators, and socioeconomic factors** affecting debt repayment behavior.
 
 📌 **Key Data Sources:**
 - **Credit Portfolio Data** (Microgestión S.A.) 📑  
@@ -32,7 +32,7 @@ We analyzed **credit portfolios, macroeconomic indicators, and socioeconomic fac
 
 ### **2️⃣ Predictive Modeling: Logistic Regression & Machine Learning**
 
-We developed a **logistic regression model** to estimate **default probability**, minimizing **risk exposure** while improving collection efficiency.
+I developed a **logistic regression model** to estimate **default probability**, minimizing **risk exposure** while improving collection efficiency.
 
 📌 **Model Equation:**
 ```math
