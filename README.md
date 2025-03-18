@@ -40,6 +40,7 @@ P(IMPAGO = 1 | X) = \frac{1}{1 + e^{-\sum \beta_i X_i}}
 * Where  X represents loan and customer characteristics affecting default probability.* 
 
 🔹 **Key Features Impacting Default Risk:**
+
 ✅ **Interest on active & overdue installments** (22-24% impact on default probability)  
 ✅ **Installment capital amount** (Lower capital reduces default risk)  
 ✅ **Age & credit cycle** (New clients are higher risk)  
