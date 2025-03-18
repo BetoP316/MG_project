@@ -37,6 +37,7 @@ I developed a **logistic regression model** to estimate **default probability**,
 ```math
 P(IMPAGO = 1 | X) = \frac{1}{1 + e^{-\sum \beta_i X_i}}
 ```
+
 * Where  X represents loan and customer characteristics affecting default probability.* 
 
 🔹 **Key Features Impacting Default Risk:**
