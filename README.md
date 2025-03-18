@@ -1,4 +1,4 @@
-# 📊 Predictive Modeling for Debt Recovery
+# 📊 Predictive Modeling for Debt Recovery Profile
 🚀 **Enhancing Debt Collection Strategies with Machine Learning & Statistical Models**
 
 ## 📌 Project Overview
