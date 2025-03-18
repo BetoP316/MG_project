@@ -1,7 +1,5 @@
 # 📊 Predictive Modeling for Debt Recovery – Microgestión S.A
-
 🚀 **Enhancing Debt Collection Strategies with Machine Learning & Statistical Models**
----
 
 ## 📌 Project Overview
 In an economic landscape marked by **high uncertainty and rising default rates**, financial institutions need **predictive tools** to optimize debt recovery strategies. This study develops a **logistic regression model** enhanced by **machine learning techniques** to identify **high-risk clients** and refine collection strategies.
