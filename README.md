@@ -5,6 +5,7 @@
 In an economic landscape marked by **high uncertainty and rising default rates**, financial institutions need **predictive tools** to optimize debt recovery strategies. This study develops a **logistic regression model** enhanced by **machine learning techniques** to identify **high-risk clients** and refine collection strategies.
 
 🔹 **Key Takeaways:**
+
 ✅ Predictive modeling **reduces collection costs** and improves efficiency 📉  
 ✅ Machine learning helps **prioritize high-risk debtors** 🎯  
 ✅ **Interest rates and installment size** are key factors affecting repayment probability 💰  
