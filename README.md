@@ -26,7 +26,7 @@ I analyzed **credit portfolios, macroeconomic indicators, and socioeconomic fact
 |------------|-----------|
 | Customer Info | Age, Gender, Civil Status, Income Level |
 | Loan Details | Interest Rate, Installment Amount, Credit Type |
-| Macroeconomic Factors | Employment Rate, Industry Type, Inflation |
+| Macroeconomic Factors | Employment Rate, Industry Type, Education levels |
 
 
 ### **2️⃣ Predictive Modeling: Logistic Regression & Machine Learning**
