@@ -11,7 +11,6 @@ In an economic landscape marked by **high uncertainty and rising default rates**
 ✅ **Interest rates and installment size** are key factors affecting repayment probability 💰  
 ✅ Logistic regression and Random Forest models offer **~97% accuracy** in default prediction 🔍  
 
----
 
 ## 📊 Methodology & Approach
 
