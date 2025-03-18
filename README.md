@@ -70,14 +70,11 @@ P(IMPAGO = 1 | X) = \frac{1}{1 + e^{-\sum \beta_i X_i}}
 
 ### **📂 Repository Structure**
 ```yaml
-├── data/              # Processed datasets (credit history, loan data, customer profiles)
-├── models/            # Logistic regression & machine learning models
-├── notebooks/         # Jupyter Notebooks for analysis
-├── scripts/           # Python scripts for modeling & predictions
-├── results/           # Model outputs & visualizations
+├── CODE/              # Python scripts for modeling & predictions
+├── GRAPHS/            # Visualizations & analytical charts
+├── Corr_table.xlsx    # Correlation table for feature analysis
 └── README.md          # Project Overview
 ```
-
 
 ## 📌 Future Enhancements
 🔹 **Incorporating deep learning models (Neural Networks) for better predictions** 🧠  
