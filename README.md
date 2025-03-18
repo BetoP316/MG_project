@@ -28,7 +28,6 @@ I analyzed **credit portfolios, macroeconomic indicators, and socioeconomic fact
 | Loan Details | Interest Rate, Installment Amount, Credit Type |
 | Economic Factors | Employment Rate, Industry Type, Inflation |
 
----
 
 ### **2️⃣ Predictive Modeling: Logistic Regression & Machine Learning**
 
@@ -55,8 +54,6 @@ P(IMPAGO = 1 | X) = \frac{1}{1 + e^{-\sum \beta_i X_i}}
 
 📌 **Key Takeaway:** Machine learning models **enhance debt collection accuracy** by filtering high-risk clients.  
 
----
-
 ## 🎯 Key Insights & Results
 
 📌 **Main Findings:**
@@ -66,8 +63,6 @@ P(IMPAGO = 1 | X) = \frac{1}{1 + e^{-\sum \beta_i X_i}}
 ✅ **Machine learning models improve risk identification by 10%** over traditional statistical models  
 
 📊 **Chi-Square Tests confirm significant differences** between repayment behaviors across **age, credit cycle, and financial stability**.  
-
----
 
 ## 🔧 Implementation & Reproducibility
 
