@@ -1,4 +1,4 @@
-# 📊 Predictive Modeling for Debt Recovery – Microgestión S.A
+# 📊 Predictive Modeling for Debt Recovery
 🚀 **Enhancing Debt Collection Strategies with Machine Learning & Statistical Models**
 
 ## 📌 Project Overview
